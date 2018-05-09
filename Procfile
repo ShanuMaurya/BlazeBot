@@ -1,1 +1,1 @@
-worker: setup.py
+worker: Setup-Windows.bat
